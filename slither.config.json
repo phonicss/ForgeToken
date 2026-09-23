@@ -1,0 +1,5 @@
+{
+  "detectors_to_exclude": "pragma,solc-version",
+  "solc_remaps": "@openzeppelin=node_modules/@openzeppelin",
+  "solc_disable_warnings": true
+}
